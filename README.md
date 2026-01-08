@@ -1,31 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,22&height=120&section=header&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Houda 👋</h1>
 <h3 align="center">Master’s Student in Smart IoT · AI & Applied Research</h3>
 
 <p align="center">
-I enjoy exploring how <b>artificial intelligence</b> and <b>connected systems</b> can be used to understand the world better and improve everyday life.
+Exploring how <b>intelligent systems</b> and <b>connected technologies</b> can create meaningful impact.
 </p>
 
 ---
 
-## 🌱 A bit about me
+## 🌱 About me
 
-I’m currently a **Master’s student in Smart IoT at the University of Poitiers**.  
-My interests lie at the intersection of **AI, data, research, and real-world applications** — especially when technology serves **social or environmental goals**.
+I’m a **Master’s student in Smart IoT at the University of Poitiers**, interested in **artificial intelligence**, **data-driven systems**, and **applied research**.
 
-I like working on projects that require both **thinking** and **building**: from data analysis and modeling to deployment and user interaction.
+I enjoy working on projects that connect **theoretical concepts** with **real-world applications**, especially in **environmental monitoring, healthcare, and social innovation**.
 
 ---
 
-## 🔬 What I’m working on
+## 🔬 Current focus
 
-- **Applied AI & Deep Learning**
-- **Intelligent IoT systems**
-- **Environmental & health-related applications**
-- **Research-oriented projects**
+- Applied AI & Deep Learning  
+- Intelligent IoT systems  
+- Environmental & health applications  
+- Research-oriented development  
 
 ---
 
@@ -33,44 +32,42 @@ I like working on projects that require both **thinking** and **building**: from
 
 **Research Assistant — XLIM, University of Poitiers**  
 *Oct 2025 – Present*  
-- Working with a PhD researcher within the EUR Research Networks  
-- Learning research methodology and scientific writing  
-- Exploring AI and Deep Learning approaches
+- Research collaboration within EUR Research Networks  
+- Scientific documentation and writing  
+- AI & Deep Learning exploration  
 
 **Project Manager — Sen3a**  
 *May 2025 – Present*  
-- Leading an AI mentor-bot for women’s artisanal training  
-- Coordinating the team and project roadmap  
-- Using image analysis to detect errors and guide learning
+- AI mentor-bot for women’s artisanal training  
+- Team coordination and system design  
+- Image-based error detection  
 
 **Laboratory Intern — Space Factory, Ibn Tofail University**  
 *Jul 2025 – Aug 2025*  
 - Forest degradation monitoring (Maâmora forest)  
 - Satellite imagery analysis (Sentinel, Landsat)  
-- Environmental indices: NDVI, NDMI, LST  
-- ML & DL models: RandomForest, Ridge, LSTM  
-- Interactive visualization with Streamlit
+- NDVI, NDMI, LST indices  
+- ML & DL models (RF, Ridge, LSTM)  
+- Streamlit-based visualization  
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Projects
 
-- **AI-based forest degradation prediction** using satellite data  
-- **Deep learning for pulmonary disease diagnosis**  
-- **Customer churn prediction web application**  
-- **STM32-based weather station**
-
-(I enjoy projects where data, systems, and impact meet.)
+- Forest degradation prediction with satellite imagery  
+- Deep learning for pulmonary disease diagnosis  
+- Customer churn prediction web app  
+- STM32-based weather station  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & technologies
 
-**AI / Data**  
+**AI & Data**  
 Python · TensorFlow · PyTorch · Scikit-learn · Computer Vision  
 
-**IoT / Systems**  
-STM32 · Arduino · Sensors · Embedded systems  
+**IoT & Systems**  
+STM32 · Arduino · Embedded systems  
 
 **Development**  
 Streamlit · React · Git · Docker  
@@ -79,13 +76,13 @@ Streamlit · React · Git · Docker
 
 ## 🌍 Languages & interests
 
-- **Arabic** (native) · **French** (C1) · **English** (C1)  
-- Literature · Arts & museums · Cinema · Photography  
-- Sports · Social engagement
+- Arabic (Native) · French (C1) · English (C1)  
+- Literature · Arts & Museums · Cinema · Photography  
+- Sports · Social engagement  
 
 ---
 
-## 📫 Let’s connect
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/houda-hajjaj-5702a62a1">LinkedIn</a> ·
@@ -98,5 +95,5 @@ Streamlit · React · Git · Docker
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,22&height=120&section=footer&animation=fadeIn" />
 </p>
