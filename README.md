@@ -1,132 +1,102 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=header"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Houda Hajjaj</h1>
-<h3 align="center">Master’s Student in Smart IoT | AI & Applied Research Enthusiast</h3>
+<h1 align="center">Hi, I'm Houda 👋</h1>
+<h3 align="center">Master’s Student in Smart IoT · AI & Applied Research</h3>
 
 <p align="center">
-🌍 Passionate about technology, social impact, and intelligent systems.
-</p>
-
----
-
-## 👩‍💻 About Me
-
-<p align="center">
-I’m a <b>Master’s student in Smart IoT</b> at the <b>University of Poitiers</b>, with a strong interest in <b>Artificial Intelligence, Applied Research, and Intelligent Systems</b>.<br/>
-I aim to design innovative solutions that combine <b>AI, data, and connected systems</b> to address <b>real-world social and environmental challenges</b>.
+I enjoy exploring how <b>artificial intelligence</b> and <b>connected systems</b> can be used to understand the world better and improve everyday life.
 </p>
 
 ---
 
-## 🔬 Experience
+## 🌱 A bit about me
 
-### 🧪 Research Assistant — XLIM, University of Poitiers  
-**October 2025 – Present**
-- Collaborating with a PhD candidate within the **EUR Research Networks**
-- Learning scientific research methodologies and academic writing
-- Conducting research in **AI and Deep Learning**
+I’m currently a **Master’s student in Smart IoT at the University of Poitiers**.  
+My interests lie at the intersection of **AI, data, research, and real-world applications** — especially when technology serves **social or environmental goals**.
 
-### 🚀 Project Manager — Sen3a  
-**May 2025 – Present**
-- Leading an **AI mentor-bot** project for women’s artisanal training
-- Managing a multidisciplinary team
-- Implementing **image-based error detection**
-- Supporting **economic autonomy through technology**
-
-### 🏭 Laboratory Intern — Space Factory, Ibn Tofail University  
-**July 2025 – August 2025**
-- **SylvaGuard Project**: Forest degradation monitoring & prediction (Maâmora Forest)
-- Used **Sentinel & Landsat imagery** and indices (NDVI, NDMI, LST)
-- Processed geospatial data with **Google Earth Engine, Rasterio, GIS**
-- Built predictive models: **RandomForest, Ridge Regression, LSTM**
-- Developed an interactive **Streamlit** web interface
-- Combined **AI, remote sensing, and environmental preservation**
+I like working on projects that require both **thinking** and **building**: from data analysis and modeling to deployment and user interaction.
 
 ---
 
-## 📂 Projects
+## 🔬 What I’m working on
 
-### 🌦️ Weather Station with STM32  
-**Nov 2025 – Dec 2025**
-- Designed an embedded weather station using **STM32**
-- Environmental data acquisition and processing
-- User interface & data visualization
-
-### 🫁 Deep Learning — Pulmonary Disease Diagnosis  
-**July 2025 – Present**
-- CNN-based medical image classification
-- Optimized preprocessing and model performance
-- Developed a **React-based web interface**
-
-### 📊 Customer Churn Prediction Web App  
-**Nov 2024 – Apr 2025**
-- End-to-end ML pipeline
-- Classical & advanced ML models
-- Deployed with **Streamlit** for real-time prediction
-
-### 🩺 Dermalink — AI Skin Disease Detection  
-**Nov 2024 – Apr 2025**
-- Co-founded an AI-powered mobile application
-- Worked on **computer vision algorithms**
-- Contributed to medical recommendation systems
+- **Applied AI & Deep Learning**
+- **Intelligent IoT systems**
+- **Environmental & health-related applications**
+- **Research-oriented projects**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧪 Experience
 
-### 💻 Programming & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**Research Assistant — XLIM, University of Poitiers**  
+*Oct 2025 – Present*  
+- Working with a PhD researcher within the EUR Research Networks  
+- Learning research methodology and scientific writing  
+- Exploring AI and Deep Learning approaches
 
----
+**Project Manager — Sen3a**  
+*May 2025 – Present*  
+- Leading an AI mentor-bot for women’s artisanal training  
+- Coordinating the team and project roadmap  
+- Using image analysis to detect errors and guide learning
 
-## 🌍 Languages & Interests
-
-- **Languages**:  
-  - Arabic: Native  
-  - French: C1 (Advanced)  
-  - English: C1 (Advanced)
-
-- **Interests**:  
-  Literature • Arts & Museums • Cinema • Photography • Sports • Social Engagement
+**Laboratory Intern — Space Factory, Ibn Tofail University**  
+*Jul 2025 – Aug 2025*  
+- Forest degradation monitoring (Maâmora forest)  
+- Satellite imagery analysis (Sentinel, Landsat)  
+- Environmental indices: NDVI, NDMI, LST  
+- ML & DL models: RandomForest, Ridge, LSTM  
+- Interactive visualization with Streamlit
 
 ---
 
-## 📬 Contact
+## 🧩 Selected Projects
+
+- **AI-based forest degradation prediction** using satellite data  
+- **Deep learning for pulmonary disease diagnosis**  
+- **Customer churn prediction web application**  
+- **STM32-based weather station**
+
+(I enjoy projects where data, systems, and impact meet.)
+
+---
+
+## 🛠️ Tools & Technologies
+
+**AI / Data**  
+Python · TensorFlow · PyTorch · Scikit-learn · Computer Vision  
+
+**IoT / Systems**  
+STM32 · Arduino · Sensors · Embedded systems  
+
+**Development**  
+Streamlit · React · Git · Docker  
+
+---
+
+## 🌍 Languages & interests
+
+- **Arabic** (native) · **French** (C1) · **English** (C1)  
+- Literature · Arts & museums · Cinema · Photography  
+- Sports · Social engagement
+
+---
+
+## 📫 Let’s connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/houda-hajjaj-5702a62a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:houda.hajjaj@etu.univ-poitiers.fr">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/houda-hajjaj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-📍 <b>Poitiers, France</b> &nbsp; | &nbsp; 🚗 Driver’s License (Category B)
+  <a href="https://www.linkedin.com/in/houda-hajjaj-5702a62a1">LinkedIn</a> ·
+  <a href="mailto:houda.hajjaj@etu.univ-poitiers.fr">Email</a> ·
+  <a href="https://github.com/houda-hajjaj">GitHub</a>
 </p>
 
 <p align="center">
-⭐ <i>Using intelligence, data, and connectivity to build a more sustainable future.</i>
+📍 Poitiers, France · 🚗 Driver’s License (B)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=110&section=footer"/>
 </p>
